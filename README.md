@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Сергей Янситов  Sergey Yansitov
+Моё обучение веб-разработке My web-development training
 <!--
 **SeregaYa/seregaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
